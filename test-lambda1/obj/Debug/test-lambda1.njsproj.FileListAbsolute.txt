@@ -1,0 +1,3 @@
+C:\git_misc\test-lambda1\test-lambda1\obj\Debug\test-lambda1.njsprojAssemblyReference.cache
+C:\git_misc\test-lambda1\test-lambda1\obj\Debug\test-lambda1.njsproj.CoreCompileInputs.cache
+C:\git_misc\test-lambda1\test-lambda1\bin\Microsoft.NodejsTools.WebRole.dll
